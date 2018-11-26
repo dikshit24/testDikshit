@@ -1,0 +1,41 @@
+Payment Handling charges
+
+1. Test the UI on offer screen. Following should be visible:---done
+	a. Proceed Button on the right of the footer
+	b. Bill amount (check if matches the actual input amount)
+	c. View Bill Summary below the bill amount
+	d. Page name should “Select Offers”
+	e. Coupons should be displayed and should depend on the channel & product type (e.g. Prepaid / Postpaid coupons)
+	
+2. Select a coupon in the offers screen
+	The bill summary screen should be displayed along with the selected coupon code details---done
+	
+3. Tap on back button when on Bill summary screen. User should be on the coupon screen ---done
+
+4. Tap on the View bill summary when a coupon code is kept selected---done  
+	
+5. Tap on "Enter Promocode button"-->Enter a coupon code manually and tap on apply---done
+	The bill summary screen should be displayed
+
+6. Tap on "Enter Promocode button"-->Enter a coupon code manually and tap on cancel---done
+	User should go back to the offer screen 
+	
+7. Tap on view bill summary when coupon code not selected.
+	
+8. Put the app in the background when the bill summary screen is displayed and then launch the app by tapping on the icon
+
+9. Kill the app when the bill summary screen is displayed and then launch the app by tapping on the icon
+
+10. Bill Summary UI:
+	a. The bill breakup with recharge amount and Convinience charge should be displayed
+	b. Total of both the above breakup should be displayed
+	c. Proceed to Payment button should be displayed
+	d. Selected coupon code details if a coupon is selected
+	
+11. Tap on i button next to Convinience charge--> a pop up should be displayed
+
+12. Tap on Okay button of the pop up----User should be redirected to the Bill Summary screen--done
+
+13. Tap on the back button when Convinience charge pop up is displayed-->	need to be discussed
+
+14. Put the app on the background with Convinience Charge pop up and launch the app again
