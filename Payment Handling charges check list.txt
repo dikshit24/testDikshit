@@ -1,4 +1,4 @@
-Payment Handling charges
+﻿Payment Handling charges
 
 1. Test the UI on offer screen. Following should be visible:---done
 	a. Proceed Button on the right of the footer
@@ -39,3 +39,8 @@ Payment Handling charges
 13. Tap on the back button when Convinience charge pop up is displayed-->	need to be discussed
 
 14. Put the app on the background with Convinience Charge pop up and launch the app again
+
+
+
+
+15151515151515115
